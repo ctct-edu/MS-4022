@@ -39,9 +39,7 @@
 
 1. 以下のリンクをクリックして、サンプルデータ（Products.zip）をダウンロードします。
 
-   ```
-   https://github.com/ctct-edu/MS-4022/raw/main/Allfiles/Products.zip
-   ```
+   **[Products.zip をダウンロード](https://github.com/ctct-edu/MS-4022/raw/main/Allfiles/Products.zip)**
 
    > 注：ダウンロードした Products.zip は、パソコンの「**ダウンロード**」フォルダーに保存されます。
 
